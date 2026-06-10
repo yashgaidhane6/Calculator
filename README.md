@@ -2,6 +2,8 @@
 
 A simple and responsive Calculator Web Application built using Python Flask. This project performs basic arithmetic operations with a clean and user-friendly interface.
 
+Open your browser and visit: https://calculator-ue5k.onrender.com
+
 ## 🚀 Features
 
 - Addition (+)
@@ -60,8 +62,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
-5. Open your browser and visit: https://calculator-ue5k.onrender.com
 
 ## 📸 Screenshot
 
