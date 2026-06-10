@@ -61,17 +61,13 @@ pip install -r requirements.txt
 python app.py
 ```
 
-5. Open your browser and visit:
-
-```text
-http://127.0.0.1:5000
-```
+5. Open your browser and visit: https://calculator-ue5k.onrender.com
 
 ## 📸 Screenshot
 
 <img width="1106" height="870" alt="image" src="https://github.com/user-attachments/assets/b52b49b4-f793-49ff-aef9-9fb66a99256c" />
 
-##The app is Live : https://calculator-ue5k.onrender.com
+
 
 
 ## 🎯 Learning Objectives
